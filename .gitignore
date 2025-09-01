@@ -1,0 +1,16 @@
+# Unreal/Build artifacts
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Saved/*
+!Saved/Config/Windows/EditorPerProjectUserSettings.ini
+
+# IDE cruft
+.vs/
+.vscode/
+*.sln
+
+# OS
+.DS_Store
+Thumbs.db
